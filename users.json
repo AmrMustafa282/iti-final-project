@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "firstName": "amr",
+      "lastName": "mustafa",
+      "password": "123",
+      "email": "amr@me.com",
+      "role": "admin",
+      "id": "2371"
+    },
+    {
+      "id": "b094",
+      "firstName": "amr",
+      "lastName": "mustafa",
+      "email": "amr2@me.com",
+      "password": "123",
+      "role": "user"
+    },
+    {
+      "id": "66ac",
+      "firstName": "amr",
+      "lastName": "mustafa",
+      "email": "amr@me.com",
+      "password": "123123",
+      "role": "admin"
+    },
+    {
+      "id": "5818",
+      "firstName": "amr",
+      "lastName": "mustafa",
+      "email": "amr@me.com",
+      "password": "123123",
+      "role": "user"
+    }
+  ]
+}
